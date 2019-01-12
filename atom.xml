@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.flysnow.com/"/>
-  <updated>2019-01-11T13:14:04.000Z</updated>
+  <updated>2019-01-12T14:58:14.000Z</updated>
   <id>http://www.flysnow.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>fourth</title>
+    <link href="http://www.flysnow.com/2019/01/12/fourth/"/>
+    <id>http://www.flysnow.com/2019/01/12/fourth/</id>
+    <published>2019-01-12T14:56:40.000Z</published>
+    <updated>2019-01-12T14:58:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这问题下对于刚需什么时候买房的争议很大。我们先搞清楚：什么样的人才叫刚需？第一套房就叫刚需？当然不是了！不买房，你追求的女生不愿意和你在一起，这叫刚需。不买房，你的小孩没法在本地上公立学校，这叫刚需。不买房，你没办法找到工作。……刚需和刚兑的“刚”是一个意思，刚兑就是天塌下来，都要兑付本金和利息。刚需也是天塌下来也得买个房。</p><p>作者：未知数Swendy<br>链接：<a href="https://www.zhihu.com/question/305142512/answer/566032780" target="_blank" rel="noopener">https://www.zhihu.com/question/305142512/answer/566032780</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这问题下对于刚需什么时候买房的争议很大。我们先搞清楚：什么样的人才叫刚需？第一套房就叫刚需？当然不是了！不买房，你追求的女生不愿意和你在一起，这叫刚需。不买房，你的小孩没法在本地上公立学校，这叫刚需。不买房，你没办法找到工作。……刚需和刚兑的“刚”是一个意思，刚兑就是天塌下
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="http://www.flysnow.com/categories/programming/"/>
+    
+    
+      <category term="C++" scheme="http://www.flysnow.com/tags/C/"/>
+    
+      <category term="Mac" scheme="http://www.flysnow.com/tags/Mac/"/>
+    
+  </entry>
   
   <entry>
     <title>third</title>
