@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.flysnow.com/about/index.html</loc>
+    
+    <lastmod>2019-01-12T07:15:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.flysnow.com/categories/index.html</loc>
+    
+    <lastmod>2019-01-12T07:15:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.flysnow.com/tags/index.html</loc>
+    
+    <lastmod>2019-01-12T07:14:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.flysnow.com/guestbook/index.html</loc>
     
-    <lastmod>2019-01-12T06:55:02.000Z</lastmod>
+    <lastmod>2019-01-12T07:00:18.000Z</lastmod>
     
   </url>
   
@@ -19,27 +40,6 @@
     <loc>http://www.flysnow.com/2019/01/11/first/</loc>
     
     <lastmod>2019-01-11T13:06:03.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.flysnow.com/categories/index.html</loc>
-    
-    <lastmod>2019-01-11T12:29:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.flysnow.com/tags/index.html</loc>
-    
-    <lastmod>2019-01-11T12:27:55.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.flysnow.com/about/index.html</loc>
-    
-    <lastmod>2019-01-11T12:20:18.000Z</lastmod>
     
   </url>
   
