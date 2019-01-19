@@ -78,28 +78,6 @@ else in the doc, define the link:
   </entry>
   
   <entry>
-    <title>hello</title>
-    <link href="http://www.flysnow.com/2019/01/14/hello/"/>
-    <id>http://www.flysnow.com/2019/01/14/hello/</id>
-    <published>2019-01-14T03:18:23.000Z</published>
-    <updated>2019-01-14T03:20:48.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>This still is a test!</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;This still is a test!&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>建立博客</title>
     <link href="http://www.flysnow.com/2019/01/11/first/"/>
     <id>http://www.flysnow.com/2019/01/11/first/</id>
