@@ -4,22 +4,22 @@ const ap = new APlayer({
     autoplay: false,
     audio: [
       {
-        name: "PDD洪荒之力",
-        artist: '徐梦圆',
-        url: 'http://up.mcyt.net/?down/39868.mp3',
-        cover: 'http://oeff2vktt.bkt.clouddn.com/image/84.jpg',
+        name: "一生所爱",
+        artist: '卢冠廷/莫文蔚',
+        url: 'http://www.ytmp3.cn/down/48288.mp3',
+        cover: 'http://img.ytmp3.cn/image/21.jpg',
       },
       {
-        name: '9420',
-        artist: '麦小兜',
-        url: 'http://up.mcyt.net/?down/45967.mp3',
-        cover: 'http://oeff2vktt.bkt.clouddn.com/image/8.jpg',
-      },
+        name: '演员',
+        artist: '薛之谦',
+        url: 'http://www.ytmp3.cn/down/57157.mp3',
+        cover: 'http://img.ytmp3.cn/image/7.jpg',
+      }
       {
-        name: '风筝误',
-        artist: '刘珂矣',
-        url: 'http://up.mcyt.net/?down/46644.mp3',
-        cover: 'http://oeff2vktt.bkt.clouddn.com/image/96.jpg',
+        name: '去年夏天',
+        artist: '王大毛',
+        url: 'http://www.ytmp3.cn/down/52232.mp3',
+        cover: 'http://img.ytmp3.cn/image/94.jpg',
       }
     ]
 });
