@@ -20,6 +20,12 @@ const ap = new APlayer({
         artist: '王大毛',
         url: 'http://www.ytmp3.cn/down/52232.mp3',
         cover: 'http://img.ytmp3.cn/image/94.jpg',
+      },
+      {
+        name: '如果云知道',
+        artist: '曹芙嘉',
+        url: 'https://pan.baidu.com/s/1p0Xt9kQcNr-bggVoDfq4mg',
+        cover: 'http://img.ytmp3.cn/image/94.jpg',
       }
     ]
 });
