@@ -14,7 +14,7 @@ const ap = new APlayer({
         artist: '薛之谦',
         url: 'http://www.ytmp3.cn/down/57157.mp3',
         cover: 'http://img.ytmp3.cn/image/7.jpg',
-      }
+      },
       {
         name: '去年夏天',
         artist: '王大毛',
